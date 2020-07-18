@@ -1,0 +1,12 @@
+body{
+    background: url(/img/animal-biology-blur-close-up-612964.jpg) no-repeat fixed center center;
+    background-size: cover;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(20, 51, 16);
+
+}
